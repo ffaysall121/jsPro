@@ -15,4 +15,4 @@ console.log(call);
 
 ///how to make all text content editable
 
-
+// document.body.contentEditable=true;
